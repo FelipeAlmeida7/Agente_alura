@@ -7,7 +7,6 @@ A aplicação identifica níveis de log, erros recorrentes, horários de ocorrê
 ## Como funciona
 
 O usuário pode:
-
 - Enviar um arquivo `.log` ou `.txt`;
 - Colar um log diretamente na aplicação;
 - Utilizar um log de exemplo;
