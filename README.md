@@ -33,7 +33,6 @@ Christinus/
 ├── .env.example
 ├── Dockerfile
 └── README.md
-### app.py
 
 É o arquivo principal do projeto.
 
@@ -117,7 +116,7 @@ Depois instale as dependências:
 pip install -r requirements.txt
 ```
 
-Crie o arquivo `.env` baseado no `.env.example` e configure as informações da OCI Generative AI.
+Crie o arquivo `.env`  e configure as informações da OCI Generative AI.
 
 ## Executando
 
@@ -154,4 +153,5 @@ docker run --env-file .env -p 8501:8501 christinus
 ```
 
 A porta `8501` é utilizada pelo Streamlit.
-# Agente_alura
+### NAO CONSEGUI COLOCAR UMA FOTO OU IMAGEM RODANDO NA ORACLE CLOUD
+Tentei criar uma conta mas n conseguia de forma alguma, ate colocando cartao de credito e n foi
